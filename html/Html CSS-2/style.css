@@ -1,0 +1,17 @@
+
+h1{
+    color:green;
+    background-color: rgb(203, 183, 183);
+    
+}
+
+#headingOne{
+  color: red;
+}
+#headingtwo{
+    color: blue;
+}
+button{
+    color: aliceblue;
+    background-color: rgb(23, 180, 180);
+}
